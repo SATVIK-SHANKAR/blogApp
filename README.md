@@ -3,6 +3,11 @@
 ## 🚀 Overview  
 BlogApp is a **full-stack blogging web application** designed to provide a seamless experience for bloggers and readers. Users can create, edit, and delete blogs, while readers can explore and engage with content. Built with modern web technologies, BlogApp ensures **speed, scalability, and security**.
 
+# 🚀 BlogApp – Initial Testing Version  
+
+This is the **initial testing version** of BlogApp, a full-stack blogging web application. Features are still being developed, and the project is not yet fully functional. Expect updates and improvements soon! 🚀  
+
+
 ## ✨ Features  
 - 🖊 **Create, Edit & Delete** blogs  
 - 📖 **Read blogs** with a user-friendly UI  
@@ -24,7 +29,7 @@ BlogApp is a **full-stack blogging web application** designed to provide a seaml
 | **Node.js** | Backend |
 | **Express.js** | API handling |
 | **JWT Auth** | Secure authentication |
-| **Cloudinary** | Image storage (if used) |
+
 
 ## 🚀 Getting Started  
 
@@ -60,7 +65,7 @@ Your app will be live at **`http://localhost:3000`** 🚀
 - 📊 **Analytics Dashboard**  
 
 ## 📜 License  
-This project is **open-source** under the MIT License.  
+This project is **open-source** under the [MIT License](LICENSE.md).   
 
 ## 🤝 Contributing  
 Contributions are welcome! Feel free to open an issue or submit a pull request.  
